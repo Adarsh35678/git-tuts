@@ -1,2 +1,2 @@
 ﻿select * from Sales 
-order by sales;
+order   by sales;
